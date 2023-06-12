@@ -11,7 +11,9 @@ linux için:
 kodluyoruzilkrepo adında bir klasör oluşturun. oluşturduğunuz dizinde ctrl + alt + t kombinasyonu ile terminali açın
 <br>
 `cd kodluyoruzrepo`
+<br>
 `code .`
+<br>
 komutlarını çalıştırın
 ## Licence 
 Lisans [MIT](https://en.wikipedia.org/wiki/MIT_License)
