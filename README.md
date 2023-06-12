@@ -16,5 +16,6 @@ kodluyoruzilkrepo adında bir klasör oluşturun. oluşturduğunuz dizinde ctrl 
 ```
 <br>
 komutlarını çalıştırın
+
 ## Licence 
 Lisans [MIT](https://en.wikipedia.org/wiki/MIT_License)
