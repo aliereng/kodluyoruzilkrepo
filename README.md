@@ -10,8 +10,10 @@ linux için:
 <br>
 kodluyoruzilkrepo adında bir klasör oluşturun. oluşturduğunuz dizinde ctrl + alt + t kombinasyonu ile terminali açın
 <br>
-`cd kodluyoruzrepo
-code .`
+```
+  cd kodluyoruzrepo
+  code .
+```
 <br>
 komutlarını çalıştırın
 ## Licence 
